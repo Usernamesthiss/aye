@@ -16,7 +16,7 @@ package Week01;
  *  e) Delete this sample packages.
  *  f) Commit and push once completed
  */
-public class L01Q01 {
+public class L01Q02 {
 
     /**
      * @param args the command line arguments
@@ -38,7 +38,7 @@ public class L01Q01 {
         System.out.println("Address: "+address);
         System.out.println("Email: "+ email);
         System.out.println("Contact: "+ contact);
-        //9.53pm
+        //10.12pm
         //masih mencuba
     }
     
