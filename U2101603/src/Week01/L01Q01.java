@@ -23,6 +23,22 @@ public class L01Q01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String name="Muhammad Khairul Amirin bin Yaacob";
+        String matric="U2101603";
+        
+        String address="S39/1916-F, Kg Landak, Pengkalan Chepa, 16100 KB, Kelantan";
+        
+        String email="u2101603@siswa.um.edu.my";
+        
+        String contact="017 902 9266";
+        
+        System.out.println("My Profile\n");
+        System.out.println("Name: "+name);
+        System.out.println("Matric number: "+matric);
+        System.out.println("Address: "+address);
+        System.out.println("Email: "+ email);
+        System.out.println("Contact: "+ contact);
+        
     }
     
 }
