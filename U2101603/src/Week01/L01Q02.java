@@ -39,7 +39,7 @@ public class L01Q02 {
         System.out.println("Email: "+ email);
         System.out.println("Contact: "+ contact);
         //10.12pm
-        //masih mencuba
+        //masih mencuba .
     }
     
 }
