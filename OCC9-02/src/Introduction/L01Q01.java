@@ -12,7 +12,7 @@ package Introduction;
  *  a) Make sure your project name is your matrix number. Please rename it.
  *  b) Create new packages with WeekXX - (i.e XX is the lab number)
  *  c) Make sure your new packages start with WeekXX 
- *  d) Start your lab with with the following format LXXQYY - (XX is your lab session number and YY is the question number). alway start with 01 and continues with 02, 03, ...
+ *  d) Start your lab with with the following format LXXQYY - (XX is your lab session number and YY is the question number). always start with 01 and continues with 02, 03, ...
  *  e) Delete this sample packages.
  *  f) Commit and push once completed
  */

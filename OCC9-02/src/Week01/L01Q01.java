@@ -9,5 +9,5 @@ package Week01;
  * @author Azhar Aizad
  */
 public class L01Q01 {
-    
+   
 }
