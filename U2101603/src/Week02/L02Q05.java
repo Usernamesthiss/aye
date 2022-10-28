@@ -16,11 +16,11 @@ public class L02Q05 {
         System.out.println("1 Random Number Generator");
         
         // random
-        int min=1, max= 10_000;
+        int max= 10_000;
         int num;
         Random rand= new Random();
         
-        num= rand.nextInt(max-min+1) + min;
+        num= rand.nextInt(max+1) ; //0 to 1000 inclusive
         
         System.out.print("The random number generated= ");
         System.out.print(num);
