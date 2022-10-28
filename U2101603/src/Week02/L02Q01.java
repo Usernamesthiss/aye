@@ -8,6 +8,10 @@ package Week02;
  *
  * @author User
  */
+import java.util.Scanner;
 public class L02Q01 {
+    public static void main(String[] args) {
+        
+    }
     
 }
