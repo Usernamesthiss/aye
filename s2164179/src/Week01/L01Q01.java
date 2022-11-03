@@ -22,7 +22,10 @@ public class L01Q01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("name: Irfanur");
+        System.out.println("matric: s2164179");
+        System.out.println("Address: Kuala Lumpur");
+        System.out.println("Email: s2164179@siswa.um.edu.my");
         
     }
 }
