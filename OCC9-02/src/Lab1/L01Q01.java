@@ -14,6 +14,13 @@ public class L01Q01 {
         System.out.println("matrix: U2100687");
         System.out.println("Address: Johor Bahru");
         System.out.println("Email: U2100687@siswa.um.edu.my");
+
+        System.out.println("name: Irfanur");
+        System.out.println("matric: s2164179");
+        System.out.println("Address: Kuala Lumpur");
+        System.out.println("Email: s2164179@siswa.um.edu.my");
+                
+        
     }
    
 }
