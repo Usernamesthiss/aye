@@ -3,14 +3,22 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Week01;
-
 /**
  *
  * @author User
  */
+//drawing patterns
 public class L01Q03 {
     public static void main(String[] args){
-        System.out.println("Testing");
+    System.out.println("*********        ***                 *               *");
+    System.out.println("*       *      *      *             ***             * *");
+    System.out.println("*       *    *         *           *****           *   *");
+    System.out.println("*       *    *         *             *            *     *");
+    System.out.println("*       *    *         *             *           *       *");
+    System.out.println("*       *    *         *             *            *     *");
+    System.out.println("*       *    *         *             *             *   *");
+    System.out.println("*       *     *       *              *              * *");
+    System.out.println("*********        ***                 *               *");
         
         
     }
