@@ -17,6 +17,6 @@ System.out.Println("Hello World");
 
 4. To include an image of the print screen, use the following notation
 >>
-![Image Description](media/img.png)
+![Image Description](Banner_ElementIce.jpg)
 <br />
 5. To get start with Markdown, please visit this website [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
