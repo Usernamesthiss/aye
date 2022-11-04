@@ -14,13 +14,13 @@ public class L01Q02 {
        System.out.println("*     *          *         *        *     *                  *    *");            
        System.out.println("*     *         *            *     *********               *        *");      
        System.out.println("*     *          *         *           **                 *          *");  
-       System.out.println("*******           *       *            **                *             *");  
-       System.out.println("                      **               **                *            *");
-       System.out.println("                                       **                 *          *");                                      
-       System.out.println("                                                           *        *");
-        System.out.println("                                                           *      *");
-        System.out.println("                                                            *    *");
-        System.out.println("                                                               *");
+       System.out.println("*     *           *       *            **                *             *");  
+       System.out.println("*     *              **                **                *            *");
+       System.out.println("*     *                                **                 *          *");                                      
+       System.out.println("*     *                                **                  *        *");
+       System.out.println("*     *                                **                   *      *");
+       System.out.println("*     *                                **                     *    *");
+       System.out.println("*******                                **                        *");
     }
 
     
