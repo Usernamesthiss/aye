@@ -5,19 +5,18 @@
 
 1. The answer of the question. If it is needed a code please use the below statement
 
-
+````
 System.out.Println("Hello World");
 
 2. Continue with the 2nd question
->>
+
 ```
 System.out.Println("Hello World");
 ```
 3. Continue with the 3rd question with inline code `System.out.Println("Hello World")` and more code with `System.Exit()`.
 ```
 4. To include an image of the print screen, use the following notation
-``
->>
+
 
 ![Image Description](Banner_ElementIce.jpg)
 <br />
