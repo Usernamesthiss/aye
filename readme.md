@@ -14,9 +14,11 @@ System.out.Println("Hello World");
 System.out.Println("Hello World");
 ```
 3. Continue with the 3rd question with inline code `System.out.Println("Hello World")` and more code with `System.Exit()`.
-
+```
 4. To include an image of the print screen, use the following notation
+``
 >>
+
 ![Image Description](Banner_ElementIce.jpg)
 <br />
 5. To get start with Markdown, please visit this website [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
