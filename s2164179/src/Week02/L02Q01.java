@@ -9,5 +9,13 @@ package Week02;
  * @author Irfanur
  */
 public class L02Q01 {
+    public static void main(String[] args) {
+        System.out.println("Faculty of Computer Science and Information Technology");
+        System.out.println("Faculty of Computer Science and Information Technology");
+        
+        System.out.println("Faculty of Computer Science \n and Information Technology ");
+    }
+    
+    
     
 }
