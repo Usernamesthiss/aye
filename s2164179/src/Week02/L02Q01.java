@@ -19,7 +19,5 @@ public class L02Q01 {
     Fahrenheit = Templ.nextDouble();
     Celsius = (Fahrenheit-32)/1.8;
     System.out.printf("The temperature in Celsius is %.2f", Celsius);
-    
-          
-    
-}
+    }
+ }
