@@ -18,10 +18,10 @@ System.out.Println("Hello World");
 4. To include an image of the print screen, use the following notation
 
 
-![Image Description](a.jpeg)
+![Image Description](d.jpeg)
 ![Image Description](b.jpeg)
 ![Image Description](c.jpeg)
-![Image Description](d.jpeg)
+![Image Description](a.jpeg)
 ![Image Description](Banner_ElementIce.jpg)
 
 
