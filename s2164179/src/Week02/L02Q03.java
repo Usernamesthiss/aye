@@ -11,7 +11,7 @@ import java.util.Random;
  * @author Irfanur
  */
 public class L02Q03 {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int A;
         int B;
         int C;
@@ -23,14 +23,9 @@ public class L02Q03 {
         System.out.printf("A is equal to %s \n", A);
         System.out.printf("B is equal to %s \n", B);
         System.out.printf("C is equal to %s \n", C);
-
-       
-       
-       
-       
-       
-       
-       
-    }
+        
+        
+        
+       }
     
 }
