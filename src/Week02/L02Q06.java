@@ -24,8 +24,8 @@ public class L02Q06 {
          kg = M/1000;
          ftC = (ftF-32)/1.8;
          itC = (itF-32)/1.8;
-         Q = (kg*(ftC-itC)*4184)*1000;
-         System.out.println("The energy needed is "+Q);
+         Q = (kg*(ftC-itC)*4184);
+         System.out.printf("The energy needed is %e ",Q);
     }
    
     
