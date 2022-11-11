@@ -17,18 +17,21 @@ public class L02Q05 {
          int C;
          int D;
          int E;
+         int F;
          int sum;
          
          
          Random randobj = new Random();
-          A = randobj.nextInt(10000);
+          A = randobj.nextInt(10000); // 3153
           
-          B = (A / 10000);
-          C = (A / 1000);
-          D = (A / 100);
-          E = (A / 10);
+          B = (A / 10000); // 0
+          C = (A / 1000); // 3
+          D = (A - C*1000)/100; // 1
+          E = (A - C*1000-D*100)/10; // 4
+          F = (A - C*1000-D*100 - E*10); 
           
-          sum = (B + C + D + E);
+          
+          sum = (B + C + D + E + F);
           
           System.out.printf("The number is %s and %s", A, sum);
           
