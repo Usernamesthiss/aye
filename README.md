@@ -82,5 +82,81 @@ Q4f:
 ```
 final String PRO =("java");
 ```
+Q5:
+Incorrect:
+```
+a.
+final double AMOUNT = "32.5";
+AMOUNT += 10;
+System.out.println("The amount is " + AMOUNT);
+b.
+string chapter = 'Summary';
+System.out.println(chapter);
+c.
+int num;
+++num++;
+num1 = num;
+d.
+int num = 3000;
+System.out.printf("%4.2f\n", num);
+e.
+String contact;
+Scanner keyboard = new Scanner(System.out);
+contact = keyboard.nextLine();
+```
+Correct:
+```
+a.
+final double AMOUNT = "32.5";
+AMOUNT += 10;
+System.out.println("The amount is "" + AMOUNT);
+b.
+string chapter = ("Summary");
+System.out.println(chapter);
+c.
+int num;
+++num;
+num1 = num;
+d.
+float num = 3000;
+System.out.printf("%4.2f\n", num);
+e.
+String contact;
+Scanner keyboard = new Scanner(System.in);
+contact = keyboard.nextLine();
+```
+Q6:
+```
+import java.util.Scanner;
+
+public class the6 {
+    public static void main(String[] args) {
+        System.out.println("Enter Diameter: ");
+        Scanner keyboard = new Scanner(System.in);
+        float d;
+        d = keyboard.nextFloat();
+        System.out.printf("The circumference of the circle is: %.3f",d*Math.PI);
+        
+    }
+    
+}
+```
+Q7:
+```
+import java.util.Scanner;
+
+public class the6 {
+    public static void main(String[] args) {
+        System.out.println("Enter value in inch:");
+        Scanner keyboard = new Scanner(System.in);
+        float l;
+        l = keyboard.nextFloat();
+        System.out.printf("%.2f inches = %.2f meters",l,2.54*l);
+        
+    }
+    
+}
+```
+
 
 
