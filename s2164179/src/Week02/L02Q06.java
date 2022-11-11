@@ -20,16 +20,18 @@ public class L02Q06 {
         
         Scanner SC = new Scanner(System.in);
         
-        System.out.println("Eneter the initial temperature here");
+        System.out.println("Eneter the final temperature here");
         FT = SC.nextDouble();
         
+        System.out.println("Eneter the initial temperature here");
         IT = SC.nextDouble();
         
+        System.out.println("Enter the weight of the water here");
         W = SC.nextDouble();
         
         E = W*(FT - IT)*4184;
         
-        System.out.println("E");
+        System.out.println(E);
         
         
         
