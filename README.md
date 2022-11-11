@@ -111,7 +111,7 @@ final double AMOUNT = "32.5";
 AMOUNT += 10;
 System.out.println("The amount is "" + AMOUNT);
 b.
-string chapter = ("Summary");
+String chapter = ("Summary");
 System.out.println(chapter);
 c.
 int num;
