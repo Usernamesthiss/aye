@@ -14,11 +14,12 @@ public class T4Q1d {
         Scanner keyboard = new Scanner(System.in);
         System.out.print("Enter number: ");
     int o = keyboard.nextInt();
-    int r = 1;
-    int s = 1;
-    while(r<=o){
-        r+=s;
+    int r = 0;
+    int s = 0;
+    while(r<o){
         ++r;
+        s+=r;
+
     }        
         System.out.printf("%d",s);
     
