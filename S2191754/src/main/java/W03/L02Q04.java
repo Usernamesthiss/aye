@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class L02Q04 {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
+        System.out.print("Enter the number of seconds: ");
         int s = keyboard.nextInt();
         int r = s-s/3600*3600;
         System.out.printf("%d seconds is %d hours, %d minutes, and %d seconds",s,s/3600,s/60-s/3600*60,r-(r)/60*60);

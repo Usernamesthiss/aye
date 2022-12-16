@@ -8,12 +8,6 @@ package W04;
  *
  * @author aviat
  */
-import java.util.Scanner;
-public class L03Q01 {
-    public static void main(String[] args) {      
-        
-    }
-
-    
+public class L03Q06 {
     
 }
